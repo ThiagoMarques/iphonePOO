@@ -2,6 +2,8 @@
 
 Este é um exemplo simples de uma classe iPhone que demonstra suas funções. A classe iPhone implementa três interfaces: MusicPlayer, PhoneSystem e WebBrowser.
 
+![pooIphone](https://github.com/ThiagoMarques/iphonePOO/assets/5391998/560493b0-ecf8-43a3-be97-b456e88fe1e3)
+
 ## Interface MusicPlayer
 
 A interface MusicPlayer define os seguintes métodos:
